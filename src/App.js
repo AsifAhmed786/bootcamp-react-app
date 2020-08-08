@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hello world
+      First react automated changes
     </div>
   );
 }
